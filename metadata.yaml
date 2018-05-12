@@ -1,5 +1,8 @@
 _repo: Ancient-Man--The-Beginning-of-Civilizations_9991
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Van Loon, Hendrik Willem
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
 description: Written by the author for his sons, this is a simplified history of humanity
   until 300 B.C.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9991#Ancient-Man--The-Beginning-of-Civilizations
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
